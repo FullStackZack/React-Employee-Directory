@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 import Main from "./components/Main";
 import Footer from "./components/Footer";
-import API from "./utils/API";
 
 
 function App() {
