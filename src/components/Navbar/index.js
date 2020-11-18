@@ -1,11 +1,11 @@
 import React from 'react';
-import "./navbar.css";
+import "./style.css";
 
 
-function Navbar () {
+function Navbar() {
     return (
         <div>
-            <Dropdown />
+            
         </div>
     )
 };

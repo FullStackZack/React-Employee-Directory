@@ -1,12 +1,12 @@
 import React from 'react';
-import "./container.css";
+import "./style.css";
 
-function Container () {
+function Footer () {
     return (
         <div>
 
         </div>
     )
-};
+}
 
-export default Container;
+export default Footer;
