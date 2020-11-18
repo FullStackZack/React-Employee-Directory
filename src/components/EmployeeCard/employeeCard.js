@@ -1,10 +1,12 @@
 import React from 'react';
 import "./card.css";
 
-function EmployeeCard () {
+function EmployeeCard() {
     return (
-        <div>
+        <div class="card">
+            <div class="card-body">
 
+            </div>
         </div>
     )
 };
