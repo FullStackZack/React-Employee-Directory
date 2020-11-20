@@ -1,9 +1,14 @@
-#headertxt {
-    text-align: center;
+.table {
+    border-radius: 30px;
 }
 
 td {
     text-align: center;
+}
+
+h6 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
 }
 
 img {

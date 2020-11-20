@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 30px;
+    color: rgb(243, 182, 69);
+}
+
+h5, li { 
+    text-align: center;
+    padding-bottom: 10px;
+    color: orange;
+}
+
