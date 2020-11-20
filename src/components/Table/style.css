@@ -1,0 +1,30 @@
+#headertxt {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+img {
+    border-radius: 75px;
+}
+
+h5 {
+    padding-top: 25px;
+    padding-left: 10px;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+.link {
+    color: white;
+}
+
+.link:hover {
+    color: orange;
+}
+
+svg {
+    margin-right: 10px;
+}
