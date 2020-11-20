@@ -27,8 +27,6 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 * Utilize the search bar by typing employee's first OR last name
 * Sort employees by their first or last name A-Z (click the button again to display Z-A)
 
-<img src="/src/reactempdir.png">
-
 ## Contributing
 None
 
