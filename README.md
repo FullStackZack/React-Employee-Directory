@@ -1,6 +1,6 @@
 # React Employee Directory
 
-<a href="https://fullstackzack.github.io/React-Employee-Directory/">Check out the live app!</a>
+<a href="https://radiant-citadel-58253.herokuapp.com/">Check out the live app!</a>
 
 ## Description
 
@@ -26,6 +26,8 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 ## Usage
 * Utilize the search bar by typing employee's first OR last name
 * Sort employees by their first or last name A-Z (click the button again to display Z-A)
+
+![](/src/assets/reactempdir.png)
 
 ## Contributing
 None
